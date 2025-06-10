@@ -9,7 +9,7 @@ int main(){
     }else if(age<12){
         cout<<"Your are the child";
     }else{
-        cout<<"You are elder";
+        cout<<"You are elder brother!";
     }
 
     return 0;

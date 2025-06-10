@@ -5,11 +5,11 @@ int main(){
     cout<<"Enter your age: ";
     cin>>age;
     if(age>=12&&age<=50){
-        cout<<"Now you are younger";
+        cout<<"You are younger";
     }else if(age<12){
         cout<<"Your are the child";
     }else{
-        cout<<"Ohh you are elder";
+        cout<<"You are elder";
     }
 
     return 0;

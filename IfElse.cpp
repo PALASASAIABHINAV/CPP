@@ -8,7 +8,7 @@ int main(){
         cout<<x<<" (x) is biger than (y) "<<y;
     }
     else{
-        cout<<y<<" (y) is biger then (x) "<<x;
+        cout<<y<<" (y) is biger then (x "<<x;
     }
     return 0;
 }

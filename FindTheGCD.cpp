@@ -6,7 +6,7 @@ int main(){
     cin>>n>>m;
     while(m!=n){
         if(m>n){
-            m-=n;
+            m=m-n;
         }
         if(n>m){
             n=n-m;

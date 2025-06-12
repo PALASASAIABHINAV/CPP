@@ -13,7 +13,7 @@ int main(){
         }
     }
     
-    cout<<"The GCD(greatest common division (or) Factor):"<<m;
+    cout<<"The GCD(greatest common division (or) Factor) : "<<m;
 
     return 0;
 }

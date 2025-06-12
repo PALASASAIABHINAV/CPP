@@ -9,7 +9,7 @@ int main(){
             m-=n;
         }
         if(n>m){
-            n-=m;
+            n=n-m;
         }
     }
     

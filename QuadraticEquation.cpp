@@ -7,6 +7,6 @@ int main(){
     cin>>a>>b>>c;
     root1=(-b+sqrt((b*b)-4*a*c))/(2*a);
     root2=(-b-sqrt((b*b)-4*a*c))/(2*a);
-    cout<<"The roots are \n root1: "<<root1<<"\n root2: "<<root2;
+    cout<<"The roots  \n root1: "<<root1<<"\n root2: "<<root2;
     return 0;
 }
